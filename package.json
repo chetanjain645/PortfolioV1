@@ -38,5 +38,24 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "my portfolio website",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chetanjain645/PortfolioV1.git"
+  },
+  "keywords": [
+    "my",
+    "first",
+    "portfolio",
+    "webiste"
+  ],
+  "author": "chetan jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chetanjain645/PortfolioV1/issues"
+  },
+  "homepage": "https://github.com/chetanjain645/PortfolioV1#readme"
 }
