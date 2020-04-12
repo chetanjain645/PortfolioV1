@@ -80,8 +80,8 @@ const App = () => {
       <div className="App">
         <Helmet>
           <meta charSet="utf-8" />
-          <title>UddeshJain</title>
-          <meta name="description" content="Uddesh's portfolio website." />
+          <title>ChetanJain</title>
+          <meta name="description" content="Chetan's portfolio website." />
           <link rel="canonical" href="https://uddesh.me" />
         </Helmet>
         <NavBar {...{ isDarkTheme, ThemeHandler }} />

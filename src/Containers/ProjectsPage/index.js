@@ -4,58 +4,58 @@ import Projects from "../../components/Projects/index";
 const ProjectsContainer = () => {
     const data = [
         {
-          name: "My Portfolio Version 2",
-          description: "This is the 2nd version of my portfolio website. It is built with React. It's a Progressive Web App (PWA) and could be installed as native app and works offline as well.",
-          link: "https://gitlab.com/UddeshJain/portfolio-pwa",
-          date: "Nov 2019"
+          name: "My Portfolio",
+          description: "This is my portfolio website. It is built with React. It's a Progressive Web App (PWA) and could be installed as native app and works offline as well.",
+          link: "https://github.com/chetanjain645/PortfolioV1",
+          date: "April 2020"
         },
         {
-          name: "SINTAX",
-          description: "Sintax is a programming language built with JavaScript. It's easy to learn and use.",
-          link: "https://github.com/UddeshJain/SINTAX",
-          date: "Aug - Oct, 2019"
+          name: "Statistics",
+          description: "Statistics is a python library. It is use for finding and plotting some statiscal features of data.",
+          link: "https://github.com/chetanjain645/Statistics",
+          date: "April 2020"
         },
         {
-          name: "ADOPT ME",
-          description: "Adopt me is a web app built with reactjs and allows users to adopt a pet.",
-          link: "https://github.com/UddeshJain/adopt-me",
-          date: "Sept - Oct, 2019"
+          name: "Image Classifier",
+          description: "A web image classifier use to predict the name of uploaded image on a portal.",
+          link: "https://github.com/chetanjain645/Image-classifier",
+          date: "Feb-March, 2020"
         },
         {
-          name: "MOVIE RENTAL API",
-          description: "This API build with NodeJS and uses MongoDB as the database. It allows users to rent a movie. It has authentication and role-based access system.",
-          link: "https://github.com/UddeshJain/movie_rental_api",
-          date: "Aug - Sept, 2019"
+          name: "Data Analysis Chapter",
+          description: "This is a general description of whole process on Data Analysis.",
+          link: "https://github.com/chetanjain645/data-analysis-with-python",
+          date: "Jan-Feb, 2020"
         },
         {
-          name: "MY WEBSITE V1",
-          description: "This is first version of my portfolio website.",
-          link: "https://uddeshjain.me",
-          date: "June - July, 2019"
+          name: "Task Manager",
+          description: "A Web app which add your task to remind yourself that you have to do this work.",
+          link: "https://github.com/chetanjain645/A-small-task-manager",
+          date: "Jan, 2020"
         },
         {
-          name: "LINUX SERVER CONFIGURATION",
-          description: "A baseline installation of a Linux server and prepare it to host web applications, secure your server from a number of attack vectors, install and configure a database server, and deploy one of your existing web applications onto it.",
-          link: "https://github.com/UddeshJain/linux_server_configuration",
-          date: "June - July, 2019"
+          name: "IBM Cloud PhoneBot",
+          description: "A PhoneBot for IBM Cloud use to tell the functionality of the portal. It is built with Twilio API and IBM Cloud.",
+          link: "#",
+          date: "Nov-Dec, 2019"
         },
         {
-          name: "ITEM CATALOG",
-          description: "Item Catalog provides a list of items within a variety of categories as well as provide a user registration and authentication system. Registered users will have the ability to post, edit and delete their own items.",
-          link: "https://github.com/UddeshJain/item_catalog",
-          date: "May - June, 2019"
+          name: "Database Management Console",
+          description: "This is made with swing package in java use to get and set the information in the database.",
+          link: "https://github.com/chetanjain645/swing-jdbc-application",
+          date: "Nov, 2019"
         },
         {
-          name: "LOG ANALYTICS",
-          description: "This is an internal reporting tool for newspaper site to discover what kind of articles the site's readers like and it also shows the error log for a particular date.",
-          link: "https://github.com/UddeshJain/log-analytics",
-          date: "May - June, 2019"
+          name: "Florence",
+          description: "A Chatbot for flower store use to give the answers to the users of their general question.",
+          link: "https://github.com/chetanjain645/Chatbot-via-IBM-watson",
+          date: "Aug-Oct, 2019"
         },
         {
-          name: "REACT WEATHER APP",
-          description: "Weather web app is very simple to use, just write the city name in the text field and hit get weather button and it will show the current weather.",
-          link: "https://weather-app-8827.firebaseapp.com/",
-          date: "Nov - Dec, 2018"
+          name: "Web Scraper",
+          description: "This Scraper helped me in collecting the data from the web.",
+          link: "https://github.com/chetanjain645/website-scraping",
+          date: "June, 2019"
         }
       ]
 
