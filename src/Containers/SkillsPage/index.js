@@ -5,54 +5,54 @@ const SkillsContainer = () => {
     const data = {
         leftSkills: [
             {
-                technology: "JavaScript",
-                level: 80
-            },
-            {
-                technology: "NodeJS",
-                level: 70
-            },
-            {
-                technology: "React",
-                level: 80
-            },
-            {
-                technology: "Redux",
-                level: 60
-            },
-            {
-                technology: "MongoDB",
-                level: 70
-            },
-            {
-                technology: "ExpressJS",
+                technology: "Python",
                 level: 75
+            },
+            {
+                technology: "C++",
+                level: 70
+            },
+            {
+                technology: "Scikit-Learn",
+                level: 65
+            },
+            {
+                technology: "Pandas",
+                level: 78
+            },
+            {
+                technology: "SQL",
+                level: 70
+            },
+            {
+                technology: "Git/Github",
+                level: 65
             },
         ],
         rightSkills: [
             {
-                technology: "Python",
+                technology: "Web Scraping",
                 level: 70
             },
             {
-                technology: "HTML",
-                level: 85
+                technology: "Flask",
+                level: 65
             },
             {
-                technology: "CSS",
+                technology: "HTML/CSS",
+                level: 70
+            },
+            {
+                technology: "Visualisation",
+                level: 72
+            },
+            {
+                technology: "IBM Cloud",
                 level: 80
             },
             {
-                technology: "Docker",
-                level: 60
-            },
-            {
-                technology: "Git",
-                level: 70
-            },
-            {
-                technology: "REST API",
-                level: 70
+                technology: "NLP",
+                level: 65
             },
         ]
     }

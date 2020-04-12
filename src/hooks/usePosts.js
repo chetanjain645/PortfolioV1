@@ -8,7 +8,7 @@ const usePosts = () => {
     useEffect(() => {
         setLoading(true);
         axios
-            .get("https://dev.to/api/articles?username=uddeshjain")
+            .get("https://dev.to/api/articles?username=chetanjain645")
             .then(data => {
                 setPostData(data.data);
                 setLoading(false);

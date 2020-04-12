@@ -14,13 +14,13 @@ const AboutPage = () => {
         <div>
           <h1>About Me</h1>
           <p>
-            Hello I'm Uddesh Jain, A full stack developer. I have serious
-            passion for creating fully functional web applications with
-            intuitive user interface. Currently I'm working on cool stuff like
-            Progressive Web App (PWA), Service Workers, Push Notification etc.
+            Hello I'm Chetan Jain, A Data scientist. I have serious passion
+            for solving mathematics and logical problem so thats why I choose
+            Data scientist as my career path. Currently I'm working on cool
+            stuff like Data engineering, NLP, computer vision etc.
           </p>
           <a
-            href="https://drive.google.com/file/d/1YRckH5hyiHMNkMJu05Pk79RC7jVtvCHV/view?usp=sharing"
+            href="https://drive.google.com/file/d/1BqfSynV261Od1HAlGee0PGkU084pHpsW/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
